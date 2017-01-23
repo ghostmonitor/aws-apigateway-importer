@@ -1,4 +1,4 @@
-FROM maven:3-jdk-8
+FROM maven:3-jdk-8-alpine
 
 LABEL Description="Tools to work with Amazon API Gateway, Swagger, and RAML"
 
